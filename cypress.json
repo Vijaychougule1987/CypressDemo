@@ -1,0 +1,10 @@
+{
+    "env": {
+		"signUpUrl": "https://dev.getfirstreach.com/signup",
+    "MAILSLURP_API_KEY": "9b03ffbc527d95fba53a3a7e0284c6466ada29ad09771eeb4b3694bf6afd8dbe" 
+            },
+    
+  "defaultCommandTimeout": 30000,
+  "responseTimeout": 30000,
+  "requestTimeout": 30000
+}
